@@ -1,1 +1,1 @@
-# text-to-speech
+A text-to-speech application created using only HTML, Bootsrap and JavaScript.
